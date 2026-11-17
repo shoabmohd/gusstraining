@@ -19,3 +19,7 @@ If automatic dataset download is blocked, download `spacex_launch_dash.csv` from
 
 ## Screenshots
 Capture the live app after running it and save `dashboard_all_sites.png`, `dashboard_selected_site.png`, and `dashboard_payload_filter.png` in `screenshots/`. They are not generated here because screenshots must reflect the running application.
+
+## Dataset provenance
+
+The bundled CSV is a publicly available mirror of the IBM lab dataset because the official IBM download endpoint was unreachable in the preparation environment. For strict course-source matching, compare it with the CSV downloaded directly from the IBM lab before submission.
